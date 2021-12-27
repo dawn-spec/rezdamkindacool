@@ -1,4 +1,4 @@
-local Forbidden = {"ObvRez", "users2 here", "you can add as much users as you want"}
+local Forbidden = {"ObvRez", "Shehateslinux", "you can add as much users as you want"}
  
 game.Players.PlayerAdded:Connect(function(plr)
 for i, v in pairs(Forbidden) do
